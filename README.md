@@ -23,7 +23,7 @@ The system is designed using modular automation layers and intelligent AI logic.
 4. **Email Delivery**: Automated sending through Gmail.
 5. **Status Tracking**: Updates the Google Sheet with a “sent” status after each email is delivered.
 
-![full_demo.png]()
+![full_demo.png](docs/full_demo.png)
 
 ### Key Features
 
@@ -70,9 +70,9 @@ This project involves:
     
 - Status in Sheet:
 
-![section_1.png]()
+![section_1.png](docs/section_1.png)
 
-![section_2_3.png]()
+![section_2_3.png](docs/section_2_3.png)
 
 ### **Skills Demonstrated**
 
