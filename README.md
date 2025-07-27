@@ -94,5 +94,6 @@ This project involves:
 Note:
 You can email me on rizwanforbuisness@gmail.com to get the tempelate for FREE.
 
-Regards:
+Regards,
+
 Rizwan Bin Akbar
